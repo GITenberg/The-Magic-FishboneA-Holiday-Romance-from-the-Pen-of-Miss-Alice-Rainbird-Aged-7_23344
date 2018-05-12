@@ -1,0 +1,38 @@
+_repo: The-Magic-FishboneA-Holiday-Romance-from-the-Pen-of-Miss-Alice-Rainbird-Aged-7_23344
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dickens, Charles
+    aliases:
+    - Boz
+    - Dickens, Charles John Huffam
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+description: The fairy Grandmarina gives Princess Alicia a magic fishbone. To her
+  father's confusion she declines to use it. Her reward is marriage, which does seem
+  a fantasy as she and the groom appear to be very young.
+gutenberg_bookshelf: Children's Picture Books
+gutenberg_issued: '2007-11-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23344'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories'
+- !lcsh 'Humorous stories'
+- !lcsh 'Princesses -- Fiction'
+- !lcc 'PZ'
+- !lcsh 'Fairy tales'
+title: 'The Magic Fishbone
+
+  A Holiday Romance from the Pen of Miss Alice Rainbird, Aged 7'
+url: http://www.gutenberg.org/ebooks/23344
